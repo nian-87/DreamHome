@@ -44,6 +44,9 @@ include_once __DIR__ . '/../config/database.php';
                     <li class="nav-item">
                         <a class="nav-link" href="/dreamhome/pages/viewings/index.php">Viewings</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/dreamhome/pages/advertisements/index.php">Adverts</a>
+                    </li>    
                 </ul>
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
